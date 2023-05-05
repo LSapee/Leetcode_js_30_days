@@ -1,7 +1,5 @@
 var craeateHelloWorld = function() {
-    return function(...args){
-        return "Hello World";
-    }
+    return ()=>{return "Hello World";}
 }
 
 const func = craeateHelloWorld();
