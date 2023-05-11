@@ -9,5 +9,6 @@
 | 2023/05/08 | 4 day          | Apply Transform Over Each Element in Array  |
 | 2023/05/09 | 5 day          | Filter Elements from Array |
 | 2023/05/10 | 6 day          | Array Reduce Transformation |
+| 2023/05/11 | 7 day          | Function Composition |
 
 
