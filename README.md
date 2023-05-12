@@ -10,5 +10,6 @@
 | 2023/05/09 | 5 day          | Filter Elements from Array |
 | 2023/05/10 | 6 day          | Array Reduce Transformation |
 | 2023/05/11 | 7 day          | Function Composition |
+| 2023/05/12 | 8 day          | Allow One Function Call |
 
 
