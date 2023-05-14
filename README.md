@@ -12,5 +12,6 @@
 | 2023/05/11 | 7 day          | Function Composition |
 | 2023/05/12 | 8 day          | Allow One Function Call |
 | 2023/05/13 | 9 day          | Memoize |
+| 2023/05/13 | 10 day         | Curry |
 
 
