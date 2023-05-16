@@ -14,5 +14,6 @@
 | 2023/05/13 | 9 day          | Memoize                                    |
 | 2023/05/14 | 10 day         | Curry                                      |
 | 2023/05/15 | 11 day         | Sleep                                      |
+| 2023/05/15 | 12 day         | Promise Time Limit                                     |
 
 
