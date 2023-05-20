@@ -17,6 +17,7 @@
 | 2023/05/16 | 12 day         | Promise Time Limit                                  |
 | 2023/05/17 | 13 day         | Promise Pool|
 | 2023/05/18 | 14 day         | Cache With Time Limit|
-| 2023/05/18 | 15 day         | Debounce|
+| 2023/05/19 | 15 day         | Debounce|
+| 2023/05/20 | 16 day         | 	Throttle|
 
 
