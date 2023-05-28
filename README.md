@@ -26,5 +26,6 @@
 | 2023/05/25 | 21 day         | 	Chunk Array|
 | 2023/05/26 | 22 day         | 	Flatten Deeply Nested Array|
 | 2023/05/27 | 23 day         | 	Array Prototype Last|
+| 2023/05/28 | 24 day         | 	Group By|
 
 
