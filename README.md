@@ -27,5 +27,6 @@
 | 2023/05/26 | 22 day         | 	Flatten Deeply Nested Array|
 | 2023/05/27 | 23 day         | 	Array Prototype Last|
 | 2023/05/28 | 24 day         | 	Group By|
+| 2023/05/29 | 25 day         | 	Check if Object Instance of Class|
 
 
