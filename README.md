@@ -32,5 +32,6 @@
 | 2023/05/31 | 27 day         | Event Emitter|
 | 2023/06/01 | 28 day         | Array Wrapper|
 | 2023/06/02 | 29 day         | Generate Fibonacci Sequence|
+| 2023/06/03 | 30 day         | 	Nested Array Generator|
 
 
